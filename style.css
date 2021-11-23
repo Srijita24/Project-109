@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(241, 238, 19);
+    font-family: 'Roboto Slab', serif;
+}
+
+.header_div {
+    background-color: coral;
+    color: darkblue;
+}
+
+.header_div p {
+    font-family: 'Shippori Antique', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 20;
+}
+
+.main_div button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer {
+    background-color: lightpink;
+    color: orangered;
+    width: 100%;
+    font-size: 22px;
+    font-family: cursive;
+    line-height: 4;
+    text-shadow: 5px 5px 5px lightcyan;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
+.main_div img {
+    height: 400px;
+    width: 350;
+    background-color: white;
+    border-color: darkviolet;
+    border-width: 5px;
+}
